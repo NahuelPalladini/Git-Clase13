@@ -1,4 +1,4 @@
 
-let golosinas = ["chocolate", "gomitas", "alfajor"]
+let golosinas = ["chocolate", "gomitas", "alfajor", "Chupetin","Caramelo","Chicle"]
 
 console.log(golosinas);
